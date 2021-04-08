@@ -2,4 +2,8 @@
 ![gcphonev2_1](https://user-images.githubusercontent.com/49000109/114044350-740dcb00-9887-11eb-897f-0e9815f556c9.PNG)
 ![gcphonev2_2](https://user-images.githubusercontent.com/49000109/114044369-78d27f00-9887-11eb-80ae-e134b4cdffeb.PNG)
 # GcphoneV2
-gcphone
+gcphone 
+
+Retravaillé par Lee_dev et traduit par Lee_dev
+
+https://discord.gg/hWgNygUN5X
